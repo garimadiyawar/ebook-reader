@@ -1,3 +1,7 @@
+Live at:
+Production: https://ebook-reader-89hvl71pd-garima-diyawars-projects.vercel.app
+Alias: https://ebook-reader-lovat-sigma.vercel.app
+
 # 📚 Personal Ebook Reader PWA
 
 A beautiful, offline-first Progressive Web App for reading ebooks aloud on your iPhone using natural text-to-speech. Perfect for listening while working out at the gym.
